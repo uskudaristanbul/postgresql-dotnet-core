@@ -1,0 +1,2 @@
+﻿Projeyi aldigimiz github
+https://github.com/jasonsturges/postgresql-dotnet-core#environment-setup
